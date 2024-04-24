@@ -23,5 +23,10 @@ int addfunc(int a, int b)
 int func_add(int a, int b)
 {
     return a+b;
->>>>>>>branch1
+>>>>>>>>>branch1
 }
+
+
+
+
+
